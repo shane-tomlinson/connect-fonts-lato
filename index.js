@@ -10,7 +10,7 @@ module.exports = {
     "repourl": "https://github.com/shane-tomlinson/connect-fonts-lato",
     "bugsurl": false
   },
-  
+
   // Package author info
   "author": {
     "name": "Shane Tomlinson",
@@ -19,7 +19,7 @@ module.exports = {
     "githubs": "https://github.com/shane-tomlinson,https://github.com/stomlinson",
     "twitter": "@shane_tomlinson"
   },
-  
+
   // package license info
   "license": {
     "name": "SIL Open Font License",
@@ -44,7 +44,7 @@ module.exports = {
 
 
   // where to find a locale's fonts in the fonts directory
-  "locale-to-subdirs": { 
+  "locale-to-subdirs": {
   },
 
   // what font types are enabled and what are the extensions of
@@ -83,13 +83,13 @@ module.exports = {
       "lato-hairline": {
         "fontFamily": "Lato",
         "fontStyle": "normal",
-        "fontWeight": "250",
+        "fontWeight": "200",
         "local": [ "Lato Hairline", "Lato-Hairline" ]
       },
       "lato-hairlineitalic": {
         "fontFamily": "Lato",
         "fontStyle": "italic",
-        "fontWeight": "250",
+        "fontWeight": "200",
         "local": [ "Lato Hairline Italic", "Lato-HairlineItalic" ]
       },
       "lato-italic": {
